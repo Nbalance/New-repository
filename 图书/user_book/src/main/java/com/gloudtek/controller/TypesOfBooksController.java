@@ -3,6 +3,7 @@ package com.gloudtek.controller;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.UUID;
 
 import org.apache.shiro.authz.annotation.RequiresPermissions;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -78,8 +79,13 @@ public class TypesOfBooksController {
 	@RequestMapping("/save")
 //	@RequiresPermissions("typesofbooks:save")
 	public R save(@RequestBody TypesOfBooksEntity typesOfBooks){
-		typesOfBooksService.save(typesOfBooks);
-		
+		if (typesOfBooks.getId() == null || "".equals(typesOfBooks.getId())) {
+			typesOfBooks.setId(UUID.randomUUID().toString());
+			typesOfBooks.setIsdelete("0");
+			typesOfBooksService.save(typesOfBooks);
+		} else {
+			typesOfBooksService.update(typesOfBooks);
+		}
 		return R.ok();
 	}
 	
