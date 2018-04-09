@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.gloudtek.dao.ProcessregisterDao">
+
+	<insert id="save" parameterType="com.gloudtek.entity.SysUserEntity">
+		INSERT INTO sys_user
+		(
+		user_id,
+		username,
+		password,
+		email,
+		status,
+		create_time,
+		validate_code,
+		register_time,
+		isdelete
+		)
+		VALUES
+		(
+		#{userId},
+		#{username},
+		#{password},
+		#{email},
+		1,
+		now(),
+		#{validateCode},
+		#{registerTime},
+		0
+		)
+	</insert>
+
+	<select id="processregister" resultType="com.gloudtek.entity.SysUserEntity">
+	   select * from sys_user where email = #{email} and isdelete =0
+	</select>
+	
+	<select id="processActivate" resultType="com.gloudtek.entity.SysUserEntity">
+	   select * from sys_user where email = #{email} and validate_code =#{validateCode} and isdelete =0
+	</select>
+	
+</mapper>

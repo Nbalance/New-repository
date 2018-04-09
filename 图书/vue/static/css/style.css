@@ -1,0 +1,221 @@
+@media screen and (min-height: 972px) {
+  .loginground_head {
+    width: 100%;
+    height: 300px;
+    background-image: url("../img/login_bg_01.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  }
+
+  .loginground_content {
+    width: 100%;
+    height: 478px;
+    background-image: url("../img/login_bg_02.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  }
+
+  .loginground_bottom {
+    width: 100%;
+    height: 456px;
+    background-image: url("../img/login_bg_03.jpg");
+    background-repeat: no-repeat;
+    color: white;
+    position: relative;
+    background-size: 100% 100%;
+  }
+}
+
+.loginground_head {
+  width: 100%;
+  height: 356px;
+  background-image: url("../img/login_bg_01.jpg");
+  background-repeat: no-repeat;
+  font-family: 微软雅黑;
+  background-size: 100% 100%;
+}
+
+.loginground_head .font {
+  color: #0b4575;
+  font-size: 52px;
+  position: absolute;
+  left: 50%;
+  top: 107px;
+  /*利用transform达到水平垂直居中效果*/
+  transform: translate(-50%, -50%);
+}
+
+.loginground_content {
+  width: 100%;
+  height: 360px;
+  background-image: url("../img/login_bg_02.jpg");
+  background-repeat: no-repeat;
+  font-family: 微软雅黑;
+  background-size: 100% 100%;
+}
+
+.building {
+  position: relative;
+  /*left: 10%;*/
+  /*top: -730px;*/
+  width: 25%;
+
+}
+
+.loginPart {
+  float: right;
+  margin-right: 10%;
+  padding: 72px 5px;
+  width: 250px;
+
+}
+
+.loginPart .inputPart {
+  border-bottom: 2px solid #fff;
+  padding-bottom: 2px;
+  margin-bottom: 25px;
+}
+
+.loginPart span {
+  margin-right: 10px;
+}
+
+.loginPart input {
+  border: none;
+  outline: none;
+  color: #fff;
+  background-color: transparent;
+}
+.loginPart input::-webkit-input-placeholder{/* WebKit, Blink, Edge */
+  color: #250b75;
+}
+.loginPart input:-moz-placeholder{/* Mozilla Firefox 4 to 18 */
+  color: #250b75;
+}
+.loginPart input::-moz-placeholder{/* Mozilla Firefox 19+ */
+  color: #250b75;
+}
+.loginPart input:-ms-input-placeholder{/* Internet Explorer 10-11 */
+  color: #250b75;
+}
+.loginBtn {
+  background-color: #268bcd;
+  color: #ffffff;
+  font-size: 1em;
+  border-radius: 5px;
+}
+
+.vCodeInput {
+  width: 113px;
+  border-bottom: 2px solid #fff;
+  float: left;
+}
+
+.vCodeInput input[type="text"] {
+  width: 79px;
+}
+
+.vCodeImg {
+  float: left;
+  width: 115px;
+  margin-left: 9px;
+}
+
+.loginBtn {
+  margin-top: 80px;
+  background-image: url("../img/login_btn.png");
+}
+
+.loginground_bottom {
+  width: 100%;
+  height: 297px;
+  background-image: url("../img/login_bg_03.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  color: white;
+  position: relative;
+  font-family: 微软雅黑;
+  float: left;
+}
+
+.loginground_bottom .font {
+  position: relative;
+  font-size: 40px;
+  float: right;
+  margin-right: 29%;
+  margin-top: 140px;
+}
+
+.loginground_bottom .companyInfo {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  /*利用transform达到水平垂直居中效果*/
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.loginground_bottom .companyInfo span {
+  margin-right: 15px;
+  float: left;
+}
+
+.loginground_bottom .companyInfo p {
+  margin-top: 10px;
+}
+
+.loginback {
+  width: 100%;
+  height: 974px;
+  /*background-image: url("../img/login_bg.png");*/
+  /*background-repeat: no-repeat;*/
+  /*background-size: 100% 100%;*/
+}
+
+.logingd_content {
+  float: left;
+  width: 100%;
+}
+
+.logingd_contentfont {
+  position: relative;
+  font-size: 29px;
+  color: #ffffff;
+  width: 390px;
+  margin-left: 11.7%;
+  margin-top: 300px;
+  float: left;
+}
+.urldownload{
+  color: #fff;
+  font-size: 16px;
+  float: right;
+  margin-top: 166px;
+  margin-right: 10%;
+}
+.urldownload span{
+  margin-right: 10px;
+}
+.urldownload span a{
+  font-size: 16px;
+  color: #fff;
+}
+.QRcode{
+  background-color: #ffffff;
+  color: #000000;
+  width: 188px;
+  height: 106px;
+  padding: 4px 10px;
+}
+.floatleft{
+  float: left;
+}
+.triangle_border_up{
+  width:0;
+  height:0;
+  border-width:0 5px 8px;
+  border-style:solid;
+  border-color:transparent transparent #fff;/*透明 透明  灰*/
+  margin-left: 114px;
+  position:relative;
+}

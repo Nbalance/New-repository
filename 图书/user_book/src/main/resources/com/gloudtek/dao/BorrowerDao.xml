@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.gloudtek.dao.BorrowerDao">
+
+	<select id="queryObject" resultType="com.gloudtek.entity.BorrowerEntity">
+		select * from borrower where id = #{value}
+	</select>
+
+	<select id="queryList" resultType="com.gloudtek.entity.BorrowerEntity">
+		select * from borrower 
+		<if test="offset != null and limit != null">
+			limit #{offset}, #{limit}
+		</if>
+	</select>
+	
+ 	<select id="queryTotal" resultType="int">
+		select count(*) from borrower 
+	</select>
+	 
+	<insert id="save" parameterType="com.gloudtek.entity.BorrowerEntity">
+		insert into borrower
+		(
+			`id`, 
+			`book_borrower`, 
+			`borrower_time`, 
+			`return`, 
+			`phone`, 
+			`create_by`, 
+			`create_time`, 
+			`update_by`, 
+			`update_time`, 
+			`isdelete`
+		)
+		values
+		(
+			#{id}, 
+			#{bookBorrower}, 
+			#{borrowerTime}, 
+			#{return}, 
+			#{phone}, 
+			#{createBy}, 
+			#{createTime}, 
+			#{updateBy}, 
+			#{updateTime}, 
+			#{isdelete}
+		)
+	</insert>
+	 
+	<update id="update" parameterType="com.gloudtek.entity.BorrowerEntity">
+		update borrower 
+		<set>
+			<if test="bookBorrower != null">`book_borrower` = #{bookBorrower}, </if>
+			<if test="borrowerTime != null">`borrower_time` = #{borrowerTime}, </if>
+			<if test="return != null">`return` = #{return}, </if>
+			<if test="phone != null">`phone` = #{phone}, </if>
+			<if test="createBy != null">`create_by` = #{createBy}, </if>
+			<if test="createTime != null">`create_time` = #{createTime}, </if>
+			<if test="updateBy != null">`update_by` = #{updateBy}, </if>
+			<if test="updateTime != null">`update_time` = #{updateTime}, </if>
+			<if test="isdelete != null">`isdelete` = #{isdelete}</if>
+		</set>
+		where id = #{id}
+	</update>
+	
+	<delete id="delete">
+		delete from borrower where id = #{value}
+	</delete>
+	
+	<delete id="deleteBatch">
+		delete from borrower where id in 
+		<foreach item="id" collection="array" open="(" separator="," close=")">
+			#{id}
+		</foreach>
+	</delete>
+
+</mapper>

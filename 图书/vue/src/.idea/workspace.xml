@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e01e798-3e4a-4788-bd59-482f73faf856" name="Default" comment="" />
+    <ignored path="src.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="src" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Login.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/Login.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+              <folding>
+                <element signature="e#1647#1671#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="517">
+              <caret line="177" column="19" lean-forward="true" selection-start-line="177" selection-start-column="19" selection-end-line="177" selection-end-column="19" />
+              <folding>
+                <marker date="1492518651057" expanded="true" signature="1936:5634" ph="[...]" />
+                <marker date="1492518651057" expanded="true" signature="1940:1983" ph="{&quot;path&quot;: '/'...}" />
+                <marker date="1492518651057" expanded="true" signature="1987:5501" ph="{&quot;path&quot;: '/dashboard'...}" />
+                <marker date="1492518651057" expanded="true" signature="2052:5497" ph="[...]" />
+                <marker date="1492518651057" expanded="true" signature="2060:2203" ph="{&quot;name&quot;: 'Dashboard'...}" />
+                <marker date="1492518651057" expanded="true" signature="2205:2320" ph="{&quot;name&quot;: 'Tables'...}" />
+                <marker date="1492518651057" expanded="true" signature="2322:2434" ph="{&quot;name&quot;: 'Tasks'...}" />
+                <marker date="1492518651057" expanded="true" signature="2436:2555" ph="{&quot;name&quot;: 'Settings'...}" />
+                <marker date="1492518651057" expanded="true" signature="2557:2672" ph="{&quot;name&quot;: 'Access'...}" />
+                <marker date="1492518651057" expanded="true" signature="2674:2790" ph="{&quot;name&quot;: 'Servers'...}" />
+                <marker date="1492518651057" expanded="true" signature="2792:2909" ph="{&quot;name&quot;: 'Repository'...}" />
+                <marker date="1492518651057" expanded="true" signature="2911:3038" ph="{&quot;name&quot;: '税率管理'...}" />
+                <marker date="1492518651057" expanded="true" signature="3040:3152" ph="{&quot;name&quot;: '用户列表'...}" />
+                <marker date="1492518651057" expanded="true" signature="3154:3266" ph="{&quot;name&quot;: '角色管理'...}" />
+                <marker date="1492518651057" expanded="true" signature="3268:3380" ph="{&quot;name&quot;: '菜单管理'...}" />
+                <marker date="1492518651057" expanded="true" signature="3382:3515" ph="{&quot;name&quot;: '期货人工'...}" />
+                <marker date="1492518651057" expanded="true" signature="3517:3657" ph="{&quot;name&quot;: '工程量指标'...}" />
+                <marker date="1492518651057" expanded="true" signature="3659:3792" ph="{&quot;name&quot;: '承包类别'...}" />
+                <marker date="1492518651057" expanded="true" signature="3794:3953" ph="{&quot;name&quot;: '行业工艺'...}" />
+                <marker date="1492518651057" expanded="true" signature="3955:4106" ph="{&quot;name&quot;: '专案分类'...}" />
+                <marker date="1492518651057" expanded="true" signature="4108:4241" ph="{&quot;name&quot;: '工日指标'...}" />
+                <marker date="1492518651057" expanded="true" signature="4243:4366" ph="{&quot;name&quot;: '设计指标'...}" />
+                <marker date="1492518651057" expanded="true" signature="4368:4505" ph="{&quot;name&quot;: '用户信息'...}" />
+                <marker date="1492518651057" expanded="true" signature="4507:4638" ph="{&quot;name&quot;: '参数管理'...}" />
+                <marker date="1492518651057" expanded="true" signature="4640:4776" ph="{&quot;name&quot;: '工程范围'...}" />
+                <marker date="1492518651057" expanded="true" signature="4778:4920" ph="{&quot;name&quot;: '设备材料'...}" />
+                <marker date="1492518651057" expanded="true" signature="4922:5058" ph="{&quot;name&quot;: '建筑服务'...}" />
+                <marker date="1492518651057" expanded="true" signature="5060:5194" ph="{&quot;name&quot;: '专案列表'...}" />
+                <marker date="1492518651057" expanded="true" signature="5196:5341" ph="{&quot;name&quot;: '设备材料'...}" />
+                <marker date="1492518651057" expanded="true" signature="5343:5491" ph="{&quot;name&quot;: '建筑服务'...}" />
+                <marker date="1492518651057" expanded="true" signature="5505:5555" ph="{&quot;path&quot;: '/login'...}" />
+                <marker date="1492518651057" expanded="true" signature="5559:5632" ph="{&quot;path&quot;: '*'...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PriceMaintenance.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/components/cost/PriceMaintenance.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="593">
+              <caret line="190" column="6" lean-forward="true" selection-start-line="190" selection-start-column="6" selection-end-line="190" selection-end-column="6" />
+              <folding>
+                <element signature="n#style#0;n#el-table#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="e#5284#5331#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CostClassifyLa.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/cost/CostClassifyLa.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="132" column="36" lean-forward="false" selection-start-line="132" selection-start-column="36" selection-end-line="132" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProjectCostClassification.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/cost/ProjectCostClassification.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="184" column="9" lean-forward="true" selection-start-line="184" selection-start-column="9" selection-end-line="184" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RoleCoefficient.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/cost/RoleCoefficient.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="51" lean-forward="true" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WorkScope_data.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/cost/WorkScope_data.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1002">
+              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CostClassify.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/cost/CostClassify.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="877">
+              <caret line="135" column="34" lean-forward="false" selection-start-line="135" selection-start-column="34" selection-end-line="135" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CaseList.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/cost/CaseList.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-232">
+              <caret line="61" column="58" lean-forward="false" selection-start-line="61" selection-start-column="58" selection-end-line="61" selection-end-column="58" />
+              <folding>
+                <element signature="n#style#0;n#el-tabs#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <marker date="1492565024514" expanded="true" signature="4746:5890" ph="..." />
+                <marker date="1492565024514" expanded="true" signature="4765:4798" ph="{...}" />
+                <marker date="1492565024514" expanded="true" signature="4837:5408" ph="{...}" />
+                <marker date="1492565024514" expanded="true" signature="5089:5331" ph="{...}" />
+                <marker date="1492565024514" expanded="true" signature="5145:5262" ph="{...}" />
+                <marker date="1492565024514" expanded="true" signature="5268:5321" ph="{...}" />
+                <marker date="1492565024514" expanded="true" signature="5348:5399" ph="{...}" />
+                <marker date="1492565024514" expanded="true" signature="5444:5514" ph="{...}" />
+                <marker date="1492565024514" expanded="true" signature="5556:5632" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sysrole.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/sys/sysrole.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4248">
+              <caret line="199" column="19" lean-forward="true" selection-start-line="199" selection-start-column="19" selection-end-line="199" selection-end-column="19" />
+              <folding>
+                <element signature="e#6210#6257#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>query</find>
+      <find>设备名称</find>
+      <find>data</find>
+      <find>t</find>
+      <find>tui</find>
+      <find>tuich</find>
+      <find>tuichu</find>
+      <find>退出</find>
+      <find>退出d</find>
+      <find>退出dengl</find>
+      <find>退出登录</find>
+      <find>contentApplicationJson</find>
+      <find>contentFromUrlEncode</find>
+      <find>changePassword</find>
+      <find>searchCategoryChanged</find>
+      <find>searchCategoryValue</find>
+      <find>changeSearchCategory</find>
+      <find>categoryChanged</find>
+      <find>category</find>
+      <find>getTableList</find>
+    </findStrings>
+    <dirStrings>
+      <dir>E:\Project6\lkeng_costmanager\code\frontend\src</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/routes.js" />
+        <option value="$PROJECT_DIR$/main.js" />
+        <option value="$PROJECT_DIR$/api/index.js" />
+        <option value="$PROJECT_DIR$/components/Dash.vue" />
+        <option value="$PROJECT_DIR$/components/sys/sysrole.vue" />
+        <option value="$PROJECT_DIR$/config/index.js" />
+        <option value="$PROJECT_DIR$/components/sys/sysuserinfo.vue" />
+        <option value="$PROJECT_DIR$/components/sys/sysuserrole.vue" />
+        <option value="$PROJECT_DIR$/components/sys/sysmenu.vue" />
+        <option value="$PROJECT_DIR$/components/cost/WorksScope.vue" />
+        <option value="$PROJECT_DIR$/components/cost/Taxmanagement.vue" />
+        <option value="$PROJECT_DIR$/components/cost/RoleCoefficient.vue" />
+        <option value="$PROJECT_DIR$/components/cost/ProjectCostClassification.vue" />
+        <option value="$PROJECT_DIR$/components/cost/MaterialPrice.vue" />
+        <option value="$PROJECT_DIR$/components/cost/LaborPrice.vue" />
+        <option value="$PROJECT_DIR$/components/cost/IndustryProcessClassification.vue" />
+        <option value="$PROJECT_DIR$/components/cost/EngineQuantityIndex.vue" />
+        <option value="$PROJECT_DIR$/components/cost/DesignIndexModel.vue" />
+        <option value="$PROJECT_DIR$/components/cost/CostClassifyLa.vue" />
+        <option value="$PROJECT_DIR$/components/cost/CostClassify.vue" />
+        <option value="$PROJECT_DIR$/components/cost/ContractCategory.vue" />
+        <option value="$PROJECT_DIR$/components/cost/ConsumptionIndex.vue" />
+        <option value="$PROJECT_DIR$/components/cost/CaseList.vue" />
+        <option value="$PROJECT_DIR$/components/sys/sysconfig.vue" />
+        <option value="$PROJECT_DIR$/components/sys/sysuser.vue" />
+        <option value="$PROJECT_DIR$/components/cost/PriceMaintenance.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2" />
+    <option name="y" value="5" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="store" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="treeTable" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sys" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cost" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="nodejs_interpreter_path" value="D:/nodejs/node" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e01e798-3e4a-4788-bd59-482f73faf856" name="Default" comment="" />
+      <created>1490688494114</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1490688494114</updated>
+      <workItem from="1492055497031" duration="5000" />
+      <workItem from="1492055503746" duration="3000" />
+      <workItem from="1492055508274" duration="4000" />
+      <workItem from="1492055560927" duration="12000" />
+      <workItem from="1492131851993" duration="10078000" />
+      <workItem from="1492416745319" duration="6802000" />
+      <workItem from="1492494671582" duration="16758000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="33662000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2" y="5" width="1936" height="1056" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16458334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16050686" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/components/sys/sysuserinfo.vue</url>
+          <line>180</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="12" />
+          <folding>
+            <marker date="1492518651057" expanded="true" signature="1936:5634" ph="[...]" />
+            <marker date="1492518651057" expanded="true" signature="1940:1983" ph="{&quot;path&quot;: '/'...}" />
+            <marker date="1492518651057" expanded="true" signature="1987:5501" ph="{&quot;path&quot;: '/dashboard'...}" />
+            <marker date="1492518651057" expanded="true" signature="2052:5497" ph="[...]" />
+            <marker date="1492518651057" expanded="true" signature="2060:2203" ph="{&quot;name&quot;: 'Dashboard'...}" />
+            <marker date="1492518651057" expanded="true" signature="2205:2320" ph="{&quot;name&quot;: 'Tables'...}" />
+            <marker date="1492518651057" expanded="true" signature="2322:2434" ph="{&quot;name&quot;: 'Tasks'...}" />
+            <marker date="1492518651057" expanded="true" signature="2436:2555" ph="{&quot;name&quot;: 'Settings'...}" />
+            <marker date="1492518651057" expanded="true" signature="2557:2672" ph="{&quot;name&quot;: 'Access'...}" />
+            <marker date="1492518651057" expanded="true" signature="2674:2790" ph="{&quot;name&quot;: 'Servers'...}" />
+            <marker date="1492518651057" expanded="true" signature="2792:2909" ph="{&quot;name&quot;: 'Repository'...}" />
+            <marker date="1492518651057" expanded="true" signature="2911:3038" ph="{&quot;name&quot;: '税率管理'...}" />
+            <marker date="1492518651057" expanded="true" signature="3040:3152" ph="{&quot;name&quot;: '用户列表'...}" />
+            <marker date="1492518651057" expanded="true" signature="3154:3266" ph="{&quot;name&quot;: '角色管理'...}" />
+            <marker date="1492518651057" expanded="true" signature="3268:3380" ph="{&quot;name&quot;: '菜单管理'...}" />
+            <marker date="1492518651057" expanded="true" signature="3382:3515" ph="{&quot;name&quot;: '期货人工'...}" />
+            <marker date="1492518651057" expanded="true" signature="3517:3657" ph="{&quot;name&quot;: '工程量指标'...}" />
+            <marker date="1492518651057" expanded="true" signature="3659:3792" ph="{&quot;name&quot;: '承包类别'...}" />
+            <marker date="1492518651057" expanded="true" signature="3794:3953" ph="{&quot;name&quot;: '行业工艺'...}" />
+            <marker date="1492518651057" expanded="true" signature="3955:4106" ph="{&quot;name&quot;: '专案分类'...}" />
+            <marker date="1492518651057" expanded="true" signature="4108:4241" ph="{&quot;name&quot;: '工日指标'...}" />
+            <marker date="1492518651057" expanded="true" signature="4243:4366" ph="{&quot;name&quot;: '设计指标'...}" />
+            <marker date="1492518651057" expanded="true" signature="4368:4505" ph="{&quot;name&quot;: '用户信息'...}" />
+            <marker date="1492518651057" expanded="true" signature="4507:4638" ph="{&quot;name&quot;: '参数管理'...}" />
+            <marker date="1492518651057" expanded="true" signature="4640:4776" ph="{&quot;name&quot;: '工程范围'...}" />
+            <marker date="1492518651057" expanded="true" signature="4778:4920" ph="{&quot;name&quot;: '设备材料'...}" />
+            <marker date="1492518651057" expanded="true" signature="4922:5058" ph="{&quot;name&quot;: '建筑服务'...}" />
+            <marker date="1492518651057" expanded="true" signature="5060:5194" ph="{&quot;name&quot;: '专案列表'...}" />
+            <marker date="1492518651057" expanded="true" signature="5196:5341" ph="{&quot;name&quot;: '设备材料'...}" />
+            <marker date="1492518651057" expanded="true" signature="5343:5491" ph="{&quot;name&quot;: '建筑服务'...}" />
+            <marker date="1492518651057" expanded="true" signature="5505:5555" ph="{&quot;path&quot;: '/login'...}" />
+            <marker date="1492518651057" expanded="true" signature="5559:5632" ph="{&quot;path&quot;: '*'...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store/mutations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <marker date="1492163402195" expanded="true" signature="1256:1285" ph="{...}" />
+            <marker date="1492163402195" expanded="true" signature="1845:1970" ph="{&quot;el&quot;: '##root'...}" />
+            <marker date="1492163402195" expanded="true" signature="2399:2453" ph="{...}" />
+            <marker date="1492163402195" expanded="true" signature="2412:2429" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="12" />
+          <folding>
+            <marker date="1492518651057" expanded="true" signature="1936:5634" ph="[...]" />
+            <marker date="1492518651057" expanded="true" signature="1940:1983" ph="{&quot;path&quot;: '/'...}" />
+            <marker date="1492518651057" expanded="true" signature="1987:5501" ph="{&quot;path&quot;: '/dashboard'...}" />
+            <marker date="1492518651057" expanded="true" signature="2052:5497" ph="[...]" />
+            <marker date="1492518651057" expanded="true" signature="2060:2203" ph="{&quot;name&quot;: 'Dashboard'...}" />
+            <marker date="1492518651057" expanded="true" signature="2205:2320" ph="{&quot;name&quot;: 'Tables'...}" />
+            <marker date="1492518651057" expanded="true" signature="2322:2434" ph="{&quot;name&quot;: 'Tasks'...}" />
+            <marker date="1492518651057" expanded="true" signature="2436:2555" ph="{&quot;name&quot;: 'Settings'...}" />
+            <marker date="1492518651057" expanded="true" signature="2557:2672" ph="{&quot;name&quot;: 'Access'...}" />
+            <marker date="1492518651057" expanded="true" signature="2674:2790" ph="{&quot;name&quot;: 'Servers'...}" />
+            <marker date="1492518651057" expanded="true" signature="2792:2909" ph="{&quot;name&quot;: 'Repository'...}" />
+            <marker date="1492518651057" expanded="true" signature="2911:3038" ph="{&quot;name&quot;: '税率管理'...}" />
+            <marker date="1492518651057" expanded="true" signature="3040:3152" ph="{&quot;name&quot;: '用户列表'...}" />
+            <marker date="1492518651057" expanded="true" signature="3154:3266" ph="{&quot;name&quot;: '角色管理'...}" />
+            <marker date="1492518651057" expanded="true" signature="3268:3380" ph="{&quot;name&quot;: '菜单管理'...}" />
+            <marker date="1492518651057" expanded="true" signature="3382:3515" ph="{&quot;name&quot;: '期货人工'...}" />
+            <marker date="1492518651057" expanded="true" signature="3517:3657" ph="{&quot;name&quot;: '工程量指标'...}" />
+            <marker date="1492518651057" expanded="true" signature="3659:3792" ph="{&quot;name&quot;: '承包类别'...}" />
+            <marker date="1492518651057" expanded="true" signature="3794:3953" ph="{&quot;name&quot;: '行业工艺'...}" />
+            <marker date="1492518651057" expanded="true" signature="3955:4106" ph="{&quot;name&quot;: '专案分类'...}" />
+            <marker date="1492518651057" expanded="true" signature="4108:4241" ph="{&quot;name&quot;: '工日指标'...}" />
+            <marker date="1492518651057" expanded="true" signature="4243:4366" ph="{&quot;name&quot;: '设计指标'...}" />
+            <marker date="1492518651057" expanded="true" signature="4368:4505" ph="{&quot;name&quot;: '用户信息'...}" />
+            <marker date="1492518651057" expanded="true" signature="4507:4638" ph="{&quot;name&quot;: '参数管理'...}" />
+            <marker date="1492518651057" expanded="true" signature="4640:4776" ph="{&quot;name&quot;: '工程范围'...}" />
+            <marker date="1492518651057" expanded="true" signature="4778:4920" ph="{&quot;name&quot;: '设备材料'...}" />
+            <marker date="1492518651057" expanded="true" signature="4922:5058" ph="{&quot;name&quot;: '建筑服务'...}" />
+            <marker date="1492518651057" expanded="true" signature="5060:5194" ph="{&quot;name&quot;: '专案列表'...}" />
+            <marker date="1492518651057" expanded="true" signature="5196:5341" ph="{&quot;name&quot;: '设备材料'...}" />
+            <marker date="1492518651057" expanded="true" signature="5343:5491" ph="{&quot;name&quot;: '建筑服务'...}" />
+            <marker date="1492518651057" expanded="true" signature="5505:5555" ph="{&quot;path&quot;: '/login'...}" />
+            <marker date="1492518651057" expanded="true" signature="5559:5632" ph="{&quot;path&quot;: '*'...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store/mutations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <marker date="1492163402195" expanded="true" signature="1256:1285" ph="{...}" />
+            <marker date="1492163402195" expanded="true" signature="1845:1970" ph="{&quot;el&quot;: '##root'...}" />
+            <marker date="1492163402195" expanded="true" signature="2399:2453" ph="{...}" />
+            <marker date="1492163402195" expanded="true" signature="2412:2429" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="12" />
+          <folding>
+            <marker date="1492518651057" expanded="true" signature="1936:5634" ph="[...]" />
+            <marker date="1492518651057" expanded="true" signature="1940:1983" ph="{&quot;path&quot;: '/'...}" />
+            <marker date="1492518651057" expanded="true" signature="1987:5501" ph="{&quot;path&quot;: '/dashboard'...}" />
+            <marker date="1492518651057" expanded="true" signature="2052:5497" ph="[...]" />
+            <marker date="1492518651057" expanded="true" signature="2060:2203" ph="{&quot;name&quot;: 'Dashboard'...}" />
+            <marker date="1492518651057" expanded="true" signature="2205:2320" ph="{&quot;name&quot;: 'Tables'...}" />
+            <marker date="1492518651057" expanded="true" signature="2322:2434" ph="{&quot;name&quot;: 'Tasks'...}" />
+            <marker date="1492518651057" expanded="true" signature="2436:2555" ph="{&quot;name&quot;: 'Settings'...}" />
+            <marker date="1492518651057" expanded="true" signature="2557:2672" ph="{&quot;name&quot;: 'Access'...}" />
+            <marker date="1492518651057" expanded="true" signature="2674:2790" ph="{&quot;name&quot;: 'Servers'...}" />
+            <marker date="1492518651057" expanded="true" signature="2792:2909" ph="{&quot;name&quot;: 'Repository'...}" />
+            <marker date="1492518651057" expanded="true" signature="2911:3038" ph="{&quot;name&quot;: '税率管理'...}" />
+            <marker date="1492518651057" expanded="true" signature="3040:3152" ph="{&quot;name&quot;: '用户列表'...}" />
+            <marker date="1492518651057" expanded="true" signature="3154:3266" ph="{&quot;name&quot;: '角色管理'...}" />
+            <marker date="1492518651057" expanded="true" signature="3268:3380" ph="{&quot;name&quot;: '菜单管理'...}" />
+            <marker date="1492518651057" expanded="true" signature="3382:3515" ph="{&quot;name&quot;: '期货人工'...}" />
+            <marker date="1492518651057" expanded="true" signature="3517:3657" ph="{&quot;name&quot;: '工程量指标'...}" />
+            <marker date="1492518651057" expanded="true" signature="3659:3792" ph="{&quot;name&quot;: '承包类别'...}" />
+            <marker date="1492518651057" expanded="true" signature="3794:3953" ph="{&quot;name&quot;: '行业工艺'...}" />
+            <marker date="1492518651057" expanded="true" signature="3955:4106" ph="{&quot;name&quot;: '专案分类'...}" />
+            <marker date="1492518651057" expanded="true" signature="4108:4241" ph="{&quot;name&quot;: '工日指标'...}" />
+            <marker date="1492518651057" expanded="true" signature="4243:4366" ph="{&quot;name&quot;: '设计指标'...}" />
+            <marker date="1492518651057" expanded="true" signature="4368:4505" ph="{&quot;name&quot;: '用户信息'...}" />
+            <marker date="1492518651057" expanded="true" signature="4507:4638" ph="{&quot;name&quot;: '参数管理'...}" />
+            <marker date="1492518651057" expanded="true" signature="4640:4776" ph="{&quot;name&quot;: '工程范围'...}" />
+            <marker date="1492518651057" expanded="true" signature="4778:4920" ph="{&quot;name&quot;: '设备材料'...}" />
+            <marker date="1492518651057" expanded="true" signature="4922:5058" ph="{&quot;name&quot;: '建筑服务'...}" />
+            <marker date="1492518651057" expanded="true" signature="5060:5194" ph="{&quot;name&quot;: '专案列表'...}" />
+            <marker date="1492518651057" expanded="true" signature="5196:5341" ph="{&quot;name&quot;: '设备材料'...}" />
+            <marker date="1492518651057" expanded="true" signature="5343:5491" ph="{&quot;name&quot;: '建筑服务'...}" />
+            <marker date="1492518651057" expanded="true" signature="5505:5555" ph="{&quot;path&quot;: '/login'...}" />
+            <marker date="1492518651057" expanded="true" signature="5559:5632" ph="{&quot;path&quot;: '*'...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store/mutations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store/mutations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1298">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="13" />
+          <folding>
+            <marker date="1492163402195" expanded="true" signature="1256:1285" ph="{...}" />
+            <marker date="1492163402195" expanded="true" signature="1845:1970" ph="{&quot;el&quot;: '##root'...}" />
+            <marker date="1492163402195" expanded="true" signature="2399:2453" ph="{...}" />
+            <marker date="1492163402195" expanded="true" signature="2412:2429" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/MenuList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Dash.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="245" column="16" lean-forward="true" selection-start-line="245" selection-start-column="16" selection-end-line="245" selection-end-column="16" />
+          <folding>
+            <element signature="e#9416#9441#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/sys/sysrolemenu.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/sys/sysuserrole.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="96" column="34" lean-forward="false" selection-start-line="96" selection-start-column="34" selection-end-line="96" selection-end-column="34" />
+          <folding>
+            <element signature="e#3576#3623#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/cost/ManageCase.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/cost/LaborPrice.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3366">
+          <caret line="155" column="34" lean-forward="false" selection-start-line="155" selection-start-column="34" selection-end-line="155" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/cost/IndustryProcessClassification.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4576">
+          <caret line="210" column="20" lean-forward="false" selection-start-line="210" selection-start-column="20" selection-end-line="210" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-table#0;n#div#3;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/cost/EngineQuantityIndex.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2266">
+          <caret line="105" column="34" lean-forward="false" selection-start-line="105" selection-start-column="34" selection-end-line="105" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/cost/DesignIndexModel.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2266">
+          <caret line="105" column="34" lean-forward="false" selection-start-line="105" selection-start-column="34" selection-end-line="105" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/cost/ContractCategory.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1804">
+          <caret line="84" column="34" lean-forward="false" selection-start-line="84" selection-start-column="34" selection-end-line="84" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/sys/sysconfig.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-870">
+          <caret line="152" column="4" lean-forward="true" selection-start-line="152" selection-start-column="4" selection-end-line="152" selection-end-column="4" />
+          <folding>
+            <element signature="e#5548#5595#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/cost/MaterialPrice.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="148" column="34" lean-forward="false" selection-start-line="148" selection-start-column="34" selection-end-line="148" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/sys/sysuserinfo.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="189" column="21" lean-forward="true" selection-start-line="189" selection-start-column="21" selection-end-line="189" selection-end-column="21" />
+          <folding>
+            <element signature="e#7694#7741#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/sys/sysuser.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="377" column="1" lean-forward="true" selection-start-line="377" selection-start-column="1" selection-end-line="377" selection-end-column="1" />
+          <folding>
+            <element signature="e#8114#8161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/cost/ConsumptionIndex.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/cost/WorksScope.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="136" column="34" lean-forward="false" selection-start-line="136" selection-start-column="34" selection-end-line="136" selection-end-column="34" />
+          <folding>
+            <element signature="e#5139#5186#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/cost/Taxmanagement.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="161" column="23" lean-forward="true" selection-start-line="161" selection-start-column="23" selection-end-line="161" selection-end-column="23" />
+          <folding>
+            <element signature="e#3987#4034#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-110">
+          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="44" lean-forward="false" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/sys/sysmenu.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="326" column="80" lean-forward="true" selection-start-line="326" selection-start-column="80" selection-end-line="326" selection-end-column="80" />
+          <folding>
+            <element signature="e#7989#8036#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/sys/sysrole.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4248">
+          <caret line="199" column="19" lean-forward="true" selection-start-line="199" selection-start-column="19" selection-end-line="199" selection-end-column="19" />
+          <folding>
+            <element signature="e#6210#6257#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/cost/CaseList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-232">
+          <caret line="61" column="58" lean-forward="false" selection-start-line="61" selection-start-column="58" selection-end-line="61" selection-end-column="58" />
+          <folding>
+            <element signature="n#style#0;n#el-tabs#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <marker date="1492565024514" expanded="true" signature="4746:5890" ph="..." />
+            <marker date="1492565024514" expanded="true" signature="4765:4798" ph="{...}" />
+            <marker date="1492565024514" expanded="true" signature="4837:5408" ph="{...}" />
+            <marker date="1492565024514" expanded="true" signature="5089:5331" ph="{...}" />
+            <marker date="1492565024514" expanded="true" signature="5145:5262" ph="{...}" />
+            <marker date="1492565024514" expanded="true" signature="5268:5321" ph="{...}" />
+            <marker date="1492565024514" expanded="true" signature="5348:5399" ph="{...}" />
+            <marker date="1492565024514" expanded="true" signature="5444:5514" ph="{...}" />
+            <marker date="1492565024514" expanded="true" signature="5556:5632" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/cost/CostClassify.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="877">
+          <caret line="135" column="34" lean-forward="false" selection-start-line="135" selection-start-column="34" selection-end-line="135" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/cost/CostClassifyLa.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="132" column="36" lean-forward="false" selection-start-line="132" selection-start-column="36" selection-end-line="132" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/cost/ProjectCostClassification.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="184" column="9" lean-forward="true" selection-start-line="184" selection-start-column="9" selection-end-line="184" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/cost/RoleCoefficient.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="51" lean-forward="true" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/cost/WorkScope_data.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1002">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Login.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+          <folding>
+            <element signature="e#1647#1671#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="177" column="19" lean-forward="true" selection-start-line="177" selection-start-column="19" selection-end-line="177" selection-end-column="19" />
+          <folding>
+            <marker date="1492518651057" expanded="true" signature="1936:5634" ph="[...]" />
+            <marker date="1492518651057" expanded="true" signature="1940:1983" ph="{&quot;path&quot;: '/'...}" />
+            <marker date="1492518651057" expanded="true" signature="1987:5501" ph="{&quot;path&quot;: '/dashboard'...}" />
+            <marker date="1492518651057" expanded="true" signature="2052:5497" ph="[...]" />
+            <marker date="1492518651057" expanded="true" signature="2060:2203" ph="{&quot;name&quot;: 'Dashboard'...}" />
+            <marker date="1492518651057" expanded="true" signature="2205:2320" ph="{&quot;name&quot;: 'Tables'...}" />
+            <marker date="1492518651057" expanded="true" signature="2322:2434" ph="{&quot;name&quot;: 'Tasks'...}" />
+            <marker date="1492518651057" expanded="true" signature="2436:2555" ph="{&quot;name&quot;: 'Settings'...}" />
+            <marker date="1492518651057" expanded="true" signature="2557:2672" ph="{&quot;name&quot;: 'Access'...}" />
+            <marker date="1492518651057" expanded="true" signature="2674:2790" ph="{&quot;name&quot;: 'Servers'...}" />
+            <marker date="1492518651057" expanded="true" signature="2792:2909" ph="{&quot;name&quot;: 'Repository'...}" />
+            <marker date="1492518651057" expanded="true" signature="2911:3038" ph="{&quot;name&quot;: '税率管理'...}" />
+            <marker date="1492518651057" expanded="true" signature="3040:3152" ph="{&quot;name&quot;: '用户列表'...}" />
+            <marker date="1492518651057" expanded="true" signature="3154:3266" ph="{&quot;name&quot;: '角色管理'...}" />
+            <marker date="1492518651057" expanded="true" signature="3268:3380" ph="{&quot;name&quot;: '菜单管理'...}" />
+            <marker date="1492518651057" expanded="true" signature="3382:3515" ph="{&quot;name&quot;: '期货人工'...}" />
+            <marker date="1492518651057" expanded="true" signature="3517:3657" ph="{&quot;name&quot;: '工程量指标'...}" />
+            <marker date="1492518651057" expanded="true" signature="3659:3792" ph="{&quot;name&quot;: '承包类别'...}" />
+            <marker date="1492518651057" expanded="true" signature="3794:3953" ph="{&quot;name&quot;: '行业工艺'...}" />
+            <marker date="1492518651057" expanded="true" signature="3955:4106" ph="{&quot;name&quot;: '专案分类'...}" />
+            <marker date="1492518651057" expanded="true" signature="4108:4241" ph="{&quot;name&quot;: '工日指标'...}" />
+            <marker date="1492518651057" expanded="true" signature="4243:4366" ph="{&quot;name&quot;: '设计指标'...}" />
+            <marker date="1492518651057" expanded="true" signature="4368:4505" ph="{&quot;name&quot;: '用户信息'...}" />
+            <marker date="1492518651057" expanded="true" signature="4507:4638" ph="{&quot;name&quot;: '参数管理'...}" />
+            <marker date="1492518651057" expanded="true" signature="4640:4776" ph="{&quot;name&quot;: '工程范围'...}" />
+            <marker date="1492518651057" expanded="true" signature="4778:4920" ph="{&quot;name&quot;: '设备材料'...}" />
+            <marker date="1492518651057" expanded="true" signature="4922:5058" ph="{&quot;name&quot;: '建筑服务'...}" />
+            <marker date="1492518651057" expanded="true" signature="5060:5194" ph="{&quot;name&quot;: '专案列表'...}" />
+            <marker date="1492518651057" expanded="true" signature="5196:5341" ph="{&quot;name&quot;: '设备材料'...}" />
+            <marker date="1492518651057" expanded="true" signature="5343:5491" ph="{&quot;name&quot;: '建筑服务'...}" />
+            <marker date="1492518651057" expanded="true" signature="5505:5555" ph="{&quot;path&quot;: '/login'...}" />
+            <marker date="1492518651057" expanded="true" signature="5559:5632" ph="{&quot;path&quot;: '*'...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/cost/PriceMaintenance.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="190" column="6" lean-forward="true" selection-start-line="190" selection-start-column="6" selection-end-line="190" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#el-table#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#5284#5331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

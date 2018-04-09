@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.gloudtek.dao.PersonnelDao">
+
+	<select id="queryObject" resultType="com.gloudtek.entity.PersonnelEntity">
+		select * from personnel where id = #{value}
+	</select>
+
+	<select id="queryList" resultType="com.gloudtek.entity.PersonnelEntity">
+		select * from personnel where isdatele=0 
+		<if test="personnelName!=null">
+			and personnel_name like concat('%',concat(#{personnelName},'%'))
+		</if>
+		order by create_time
+		<if test="offset != null and limit != null">
+			limit #{offset}, #{limit}
+		</if>
+	</select>
+	
+ 	<select id="queryTotal" resultType="int">
+		select count(*) from personnel where isdatele=0
+	</select>
+	 
+	<insert id="save" parameterType="com.gloudtek.entity.PersonnelEntity">
+		insert into personnel
+		(
+			`id`, 
+			`personnel_name`, 
+			`sex`, 
+			`age`, 
+			`place_origin`, 
+			`fileName`, 
+			`create_time`, 
+			`create_by`, 
+			`update_time`, 
+			`update_by`, 
+			`isdatele`
+		)
+		values
+		(
+			uuid(), 
+			#{personnelName}, 
+			#{sex}, 
+			#{age}, 
+			#{placeOrigin}, 
+			#{fileName}, 
+			now(), 
+			#{createBy}, 
+			#{updateTime}, 
+			#{updateBy}, 
+			0
+		)
+	</insert>
+	 
+	<update id="update" parameterType="com.gloudtek.entity.PersonnelEntity">
+		update personnel 
+		<set>
+			<if test="personnelName != null">`personnel_name` = #{personnelName}, </if>
+			<if test="sex != null">`sex` = #{sex}, </if>
+			<if test="age != null">`age` = #{age}, </if>
+			<if test="placeOrigin != null">`place_origin` = #{placeOrigin}, </if>
+			<if test="fileName != null">`fileName` = #{fileName}, </if>
+			<if test="createTime != null">`create_time` = #{createTime}, </if>
+			<if test="createBy != null">`create_by` = #{createBy}, </if>
+			<if test="updateTime != null">`update_time` = now(), </if>
+			<if test="updateBy != null">`update_by` = #{updateBy}, </if>
+			<if test="isdatele != null">`isdatele` = #{isdatele}</if>
+		</set>
+		where id = #{id}
+	</update>
+	
+	<delete id="delete">
+		update personnel set isdatele=1 where id = #{value}
+	</delete>
+	
+	<delete id="deleteBatch">
+		update personnel set isdatele=1 where id in 
+		<foreach item="id" collection="array" open="(" separator="," close=")">
+			#{id}
+		</foreach>
+	</delete>
+
+</mapper>
